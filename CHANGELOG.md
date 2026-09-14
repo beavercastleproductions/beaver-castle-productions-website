@@ -6,7 +6,7 @@ This file records meaningful changes to the public website.
 
 ### Company and website renamed
 
-- Updated the company name from **Beaver Castle Productions** to **Beaver Castle Productions**.
+- Updated the company and website branding to **Beaver Castle Productions**.
 - Updated the website contact email to **beavercastleproductions@gmail.com**.
 - Renamed the GitHub account and website repository to match the registered company name.
 
