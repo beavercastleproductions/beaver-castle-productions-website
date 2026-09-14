@@ -1,6 +1,14 @@
-# Beaver Castle Studios — Build Notes
+# Beaver Castle Productions — Build Notes
 
 This file records meaningful changes to the public website.
+
+## 2026-09-14
+
+### Company and website renamed
+
+- Updated the company name from **Beaver Castle Productions** to **Beaver Castle Productions**.
+- Updated the website contact email to **beavercastleproductions@gmail.com**.
+- Renamed the GitHub account and website repository to match the registered company name.
 
 ## 2026-09-07
 
@@ -17,12 +25,12 @@ This file records meaningful changes to the public website.
 ### Image delivery fix
 
 - Replaced incomplete image uploads with optimized WebP assets.
-- Fixed the Beaver Castle Studios logo being partially displayed.
+- Fixed the Beaver Castle Productions logo being partially displayed.
 - Reduced page weight for faster loading.
 
 ### Initial website
 
-- Created the first studio-focused Beaver Castle Studios website.
+- Created the first studio-focused Beaver Castle Productions website.
 - Added Games, Studio and Contact sections.
 - Added Monster Truck League as the first announced project.
 - Added email and TikTok contact links.
