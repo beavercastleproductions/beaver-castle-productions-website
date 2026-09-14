@@ -1,4 +1,4 @@
-# Beaver Castle Studios website
+# Beaver Castle Productions website
 
 A fast, static studio website with no paid framework or CMS dependency.
 
